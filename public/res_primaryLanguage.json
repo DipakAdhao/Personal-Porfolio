@@ -1,0 +1,109 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "Hi there! I'm Dipak, a passionate React developer. Beyond coding, I'm on a mission to find the funniest memes—I believe even developers deserve a good laugh! My expertise spans JavaScript, React, Redux, React Router, and Context API. I specialize in crafting immersive projects like game explorers with React's Context API, aiming for user-friendly experiences that leave an impact. Let's team up and create something amazing together! 🚀😄",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Game Explorer",
+        "startDate": "2023",
+        "description": "Gameexplorer is like having your personal gaming guide. It uses RAWG.io to show you upcoming and popular games, with all the details about each game and who made them. Whether you're looking for a new game to play or checking out the latest releases, Gameexplorer keeps you in the loop and excited about gaming!",
+        "images": [
+          "/images/portfolio/GameExplorer/p1.jpg",
+          "/images/portfolio/GameExplorer/p2.jpg"
+        ],
+        "url": "game-explorer-phi.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "TypeScript"
+          }
+          
+        ]
+      },
+      {
+        "title": "Web-Block",
+        "startDate": "2024",
+        "description": "Web Block is a Chrome extension designed to enhance your browsing experience by allowing you to block specific words or phrases on web pages. Simply add the words you want to block, and Web Block will hide them from view. Whether you're avoiding spoilers, distractions, or unwanted content, Web Block puts you in control of your browsing environment.:)",
+        "images": [
+          "/images/portfolio/WebBlock/p1.jpg",
+          "/images/portfolio/WebBlock/p2.jpg"
+        ],
+        "url": "https://github.com/DipakAdhao/Web_Block-",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Silencer",
+        "startDate": "2024",
+        "description": "Silencer Chrome Extension blocks distracting words on web pages. Customize your browsing by adding/removing words via simple UI controls defined in popup.js and manifest.json",
+        "images": [
+          "/images/portfolio/Silencer/p1.jpg",
+          "/images/portfolio/Silencer/p2.jpg"
+        ],
+        "url": "https://github.com/DipakAdhao/Silencer",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "BSc(CS)",
+        "title": "Computer Science",
+        "years": "10.2020 - 10.2023",
+        "mainTech": [
+          "collage"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Jr Collage",
+        "title": "science",
+        "years": "01.2017 - 09.2020",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "physics",
+          "science",
+          "chemistry"
+        ]
+      }
+    ]
+  }
